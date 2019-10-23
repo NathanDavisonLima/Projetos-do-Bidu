@@ -1,0 +1,11 @@
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\bin\Debug\netcoreapp2.1\Exercício 4.deps.json
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\bin\Debug\netcoreapp2.1\Exercício 4.runtimeconfig.json
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\bin\Debug\netcoreapp2.1\Exercício 4.runtimeconfig.dev.json
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\bin\Debug\netcoreapp2.1\Exercício 4.dll
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\bin\Debug\netcoreapp2.1\Exercício 4.pdb
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\obj\Debug\netcoreapp2.1\Exercício 4.csprojAssemblyReference.cache
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\obj\Debug\netcoreapp2.1\Exercício 4.csproj.CoreCompileInputs.cache
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\obj\Debug\netcoreapp2.1\Exercício 4.AssemblyInfoInputs.cache
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\obj\Debug\netcoreapp2.1\Exercício 4.AssemblyInfo.cs
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\obj\Debug\netcoreapp2.1\Exercício 4.dll
+E:\Prof° Bidu\Exercícios While\Exercicios\Exercício 4\Exercício 4\Exercício 4\obj\Debug\netcoreapp2.1\Exercício 4.pdb
